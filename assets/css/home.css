@@ -1,0 +1,176 @@
+.container
+{
+	background-color: #f0f5f5;
+	padding: 5px;
+	color: black;
+}
+.image-logo
+{
+	margin: 10px auto;
+	width: 50px;
+	height: 50px;
+	padding-bottom: 10px;
+}
+.carousel-caption h5
+{
+	color: #fff;
+}
+.box
+{
+	
+	margin: 10px auto;
+	display: flex;
+	box-sizing: border-box;
+}
+.box-one
+{
+	flex: 3;
+	border: 2px solid brown;
+	color: black;
+	padding: 10px;
+}
+.box-one img
+{
+	border: 2px solid black;
+	padding: 3px;
+}
+.box-one h3
+{
+	color: #888158;
+}
+.box-two
+{
+	flex: 7;
+	margin-left: 10px;
+	border: 2px solid brown;
+	color: black;
+	padding: 10px;
+}
+.footer-home
+{
+	background-color: #000;
+	color: white;
+	padding: 5px;
+	display: flex;
+	justify-content: space-around;
+	opacity: 0.9;
+}
+.footer-one
+{
+	
+	height: 200px;
+	width: 200px;
+	padding: 5px;
+	display: flex;
+	flex-direction: column;
+}
+.footer-one div
+{
+	margin: auto;
+}
+.footer-two
+{
+	height: 200px;
+	width: 200px;
+	padding: 5px;
+}
+.footer-three
+{
+	height: 200px;
+	width: 200px;
+	padding: 5px;
+}
+.box-copyright
+{
+	text-align: center;
+	background: #000;
+	color: #fff;
+	width: auto;
+	height: 30px;
+	padding: 5px;
+	opacity: 0.9;
+}
+#box-one-one
+{
+	width: 100%;
+	height: 50px;
+	display: flex;
+}
+#box-two
+{
+	width: 100%;
+	height: 50px;
+	display: flex;
+}
+#box-three
+{
+	width: 100%;
+	height: 50px;
+	display: flex;
+}
+#box-one-two
+{
+	width: 100%;
+	height: 25px;
+	margin: auto;
+	font-size: 15px;
+}
+#box-text-one
+{
+	width: auto;
+	height: auto;
+	font-size: 11px;
+	flex: 2;
+}
+#box-pic-one
+{
+	width: 50px;
+	height: auto;
+	margin-left: 0;
+}
+#box-text-two
+{
+	width: auto;
+	height: auto;
+	font-size: 11px;
+	flex: 2;
+}
+#box-pic-two
+{
+	width: 50px;
+	height: auto;
+	margin-left: 0;
+}
+#box-text-three
+{
+	width: auto;
+	height: auto;
+	font-size: 11px;
+	flex: 3;
+}
+#box-pic-three
+{
+	width: 50px;
+	height: auto;
+	margin-left: 0;
+}
+#pic-two
+{
+	width: 50px;
+}
+#pic-three
+{
+	width: 50px;
+}
+#pic-four
+{
+	width: 50px;
+}
+.footer-two-two
+{
+	display: flex;
+}
+.footer-two-two div
+{
+	margin: auto;
+}
